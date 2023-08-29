@@ -1,0 +1,7 @@
+gost://jawhe.kzupu96i.repl.co#87cc4932-238a-424f-938e-bfb480d5d2d5#gost-0613-05
+
+
+ vless://42679f6d-7474-47b7-9197-fd0cc3188c8a@162.159.136.12:443?flow=&encryption=none&security=tls&sni=dakjw.ktg4.tk&type=ws&host=dakjw.ktg4.tk&path=/&headerType=none&alpn=&fp=&pbk=&sid=&spx=#  
+ vless://42679f6d-7474-47b7-9197-fd0cc3188c8a@162.159.128.34:443?flow=&encryption=none&security=tls&sni=dakjw.ktg4.tk&type=ws&host=dakjw.ktg4.tk&path=/&headerType=none&alpn=&fp=&pbk=&sid=&spx=#  
+ vless://42679f6d-7474-47b7-9197-fd0cc3188c8a@162.159.141.225:443?flow=&encryption=none&security=tls&sni=dakjw.ktg4.tk&type=ws&host=dakjw.ktg4.tk&path=/&headerType=none&alpn=&fp=&pbk=&sid=&spx=#  
+ vless://42679f6d-7474-47b7-9197-fd0cc3188c8a@162.159.133.91:443?flow=&encryption=none&security=tls&sni=dakjw.ktg4.tk&type=ws&host=dakjw.ktg4.tk&path=/&headerType=none&alpn=&fp=&pbk=&sid=&spx=#  
